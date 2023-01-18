@@ -21,6 +21,7 @@
 - Google Cardboard
 - Mando PS4 Dualshock 
 
+Se recomienda usar auriculares.
 
 ## Controles
 ### PC
@@ -118,3 +119,4 @@ para evitar el mareo del usuario.
 
 
 # GIF animado de ejecución
+![Ejecución](images/Ejecucion.gif)
